@@ -7,9 +7,6 @@ Este repositório contém um guia prático e scripts de estudo focados em **aná
 
 ### Análise de Recursos Humanos
 ![Relatório Geral de RH](images/relatorio_RH.png)
-![Salário Médio por Departamento](images/salario_medio_dep.png)
-![Funcionários por Setor](images/funcionarios_setor.png)
-![Relação Idade x Salário](images/idade_x_salario.png)
 
 ### Análise Financeira
 ![Evolução Histórica PETR4](images/evolucao_petr4.png)
