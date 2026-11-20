@@ -2,6 +2,18 @@
 
 Este repositório contém um guia prático e scripts de estudo focados em **análise, manipulação e visualização de dados** em Python utilizando **Pandas** e **Matplotlib** no ambiente VS Code.
 
+
+## 📊 Visualizações e Resultados
+
+### Análise de Recursos Humanos
+![Relatório Geral de RH](images/relatorio_RH.png)
+![Salário Médio por Departamento](images/salario_medio_dep.png)
+![Funcionários por Setor](images/funcionarios_setor.png)
+![Relação Idade x Salário](images/idade_x_salario.png)
+
+### Análise Financeira
+![Evolução Histórica PETR4](images/evolucao_petr4.png)
+
 ---
 
 ## 📌 Visão Geral do Projeto
